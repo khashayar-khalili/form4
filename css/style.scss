@@ -1,0 +1,15 @@
+@import "./fonts";
+body {
+    font-family: "IRANSans";
+    direction: rtl;
+    text-align: right;
+    .form {
+        margin-top: 50px;
+        input {
+            width: 347px;
+        }
+    }
+    .table {
+        margin-top: 20px;
+    }
+}
